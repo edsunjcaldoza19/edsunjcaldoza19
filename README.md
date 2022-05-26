@@ -2,6 +2,7 @@
 Github Username: @edsunjcaldoza19
 #### <b> Web Designer, PHP Developer, UI/UX Developer and Graphic Artist</b>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edsunjcaldoza19&label=Profile%20views&color=0e75b6&style=flat" alt="MansiKalaria" /> </p>
 
  ### 📍 What I'm doing:
  
