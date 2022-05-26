@@ -34,11 +34,15 @@ Github Username: @edsunjcaldoza19
 
 ### 📍 Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsunjcaldoza19&show_icons=true&locale=en&layout=compact" alt="mansikalaria" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsunjcaldoza19&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="edsunjcaldoza19" /> 
 
-<img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=edsunjcaldoza19&show_icons=true&locale=en" alt="mansikalaria" />
+<img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=edsunjcaldoza19&show_icons=true&locale=en&theme=cobalt" alt="edsunjcaldoza19" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsunjcaldoza19&" alt="mansikalaria" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsunjcaldoza19&theme=cobalt" alt="edsunjcaldoza19" />
+
+### 📍 Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsunjcaldoza19&repo=ranking-system&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
  
 
 ### 📍 Find me:
