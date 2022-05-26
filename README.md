@@ -37,6 +37,8 @@ Github Username: @edsunjcaldoza19
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsunjcaldoza19&show_icons=true&locale=en&layout=compact" alt="mansikalaria" /> 
 
 <img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=edsunjcaldoza19&show_icons=true&locale=en" alt="mansikalaria" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsunjcaldoza19&" alt="mansikalaria" />
  
 
 ### 📍 Find me:
