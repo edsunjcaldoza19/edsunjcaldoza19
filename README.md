@@ -48,7 +48,8 @@ Github Username: @edsunjcaldoza19
 ### 📍 Find me:
 <p align="left">
 <a href="https://www.facebook.com/ej.caldoza19" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="https://www.facebook.com/ej.caldoza19" height="30" width="40" /></a>
- <a href="https://twitter.com/EdsunCaldoza" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="https://twitter.com/EdsunCaldoza" height="30" width="40" /></a>
+<a href="https://twitter.com/EdsunCaldoza" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="https://twitter.com/EdsunCaldoza" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/edsun-caldoza-8560ba240/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="[https://twitter.com/EdsunCaldoza](https://www.linkedin.com/in/edsun-caldoza-8560ba240/)" height="30" width="40" /></a>
 </p>
 -----
 
