@@ -6,7 +6,7 @@ Github Username: @edsunjcaldoza19
 
  ### 📍 What I'm doing:
  
-- 🔭 I am a Student of Leyte Normal University, Philippines studying Bachelor of Science in Information Technology (BSIT)
+- 🔭 I am a graduate of Bachelor of Science in Information Technology (BSIT) in Leyte Normal University.
 - 💡 I am knowledgeable in both frontend and backend technologies (PHP, Java, Visual Basic, HTML, CSS, Bootstrap, Javascript)
 - 👯 I also have knowledge in graphic designing and using multimedia editing tools (Photoshop, Sony Vegas, etc.)
 - 📫 How to reach me: edsunjcaldoza@gmail.com
