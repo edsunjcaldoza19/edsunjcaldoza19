@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Edsun J. Caldoza
+## Hi 👋, I'm Edsun J. Caldoza
 Github Username: @edsunjcaldoza19
 #### <b> Web Designer, PHP Developer, UI/UX Developer and Graphic Artist</b>
 
@@ -13,6 +13,7 @@ Github Username: @edsunjcaldoza19
 
 ### 📍 Ongoing Projects:
 - 🏆 IMRC Website for Leyte Normal University 
+- 🏆 School Website for San Francisco Javier College - Narra Palawan
 
 ### 📍 Languages and Tools:
 
