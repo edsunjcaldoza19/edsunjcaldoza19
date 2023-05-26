@@ -36,8 +36,6 @@ If you would like to get in touch with me, feel free to reach out via email at e
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsunjcaldoza19&theme=cobalt" alt="edsunjcaldoza19" />
 
 ### 📍 Projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsunjcaldoza19&repo=ranking-system&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsunjcaldoza19&repo=sme-purchase-order-system&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
  
 
