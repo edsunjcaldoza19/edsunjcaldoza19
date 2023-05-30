@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Edsun J. Caldoza
 Github Username: @edsunjcaldoza19
-#### <b> Full Stack Developer | Graphic Artist</b>
+#### <b> Full Stack Developer | Graphic Designer</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edsunjcaldoza19&label=Profile%20views&color=0e75b6&style=flat" alt="MansiKalaria" /> </p>
 
